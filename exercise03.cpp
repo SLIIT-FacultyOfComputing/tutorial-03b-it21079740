@@ -5,9 +5,8 @@ using namespace std;
 int volume(int height, int width, int length);
 
 struct box{
-    box1;
-    box2;
-}
+    int height;int width;int length;
+}box1,box2;
 
 // Do not change the main function
 int main() {
